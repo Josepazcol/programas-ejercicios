@@ -1,0 +1,15 @@
+C:\Users\Jose\source\repos\Mi Primer Programa\Mi Primer Programa\bin\Debug\net6.0\Mi Primer Programa.exe
+C:\Users\Jose\source\repos\Mi Primer Programa\Mi Primer Programa\bin\Debug\net6.0\Mi Primer Programa.deps.json
+C:\Users\Jose\source\repos\Mi Primer Programa\Mi Primer Programa\bin\Debug\net6.0\Mi Primer Programa.runtimeconfig.json
+C:\Users\Jose\source\repos\Mi Primer Programa\Mi Primer Programa\bin\Debug\net6.0\Mi Primer Programa.dll
+C:\Users\Jose\source\repos\Mi Primer Programa\Mi Primer Programa\bin\Debug\net6.0\Mi Primer Programa.pdb
+C:\Users\Jose\source\repos\Mi Primer Programa\Mi Primer Programa\obj\Debug\net6.0\Mi Primer Programa.csproj.AssemblyReference.cache
+C:\Users\Jose\source\repos\Mi Primer Programa\Mi Primer Programa\obj\Debug\net6.0\Mi Primer Programa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jose\source\repos\Mi Primer Programa\Mi Primer Programa\obj\Debug\net6.0\Mi Primer Programa.AssemblyInfoInputs.cache
+C:\Users\Jose\source\repos\Mi Primer Programa\Mi Primer Programa\obj\Debug\net6.0\Mi Primer Programa.AssemblyInfo.cs
+C:\Users\Jose\source\repos\Mi Primer Programa\Mi Primer Programa\obj\Debug\net6.0\Mi Primer Programa.csproj.CoreCompileInputs.cache
+C:\Users\Jose\source\repos\Mi Primer Programa\Mi Primer Programa\obj\Debug\net6.0\Mi Primer Programa.dll
+C:\Users\Jose\source\repos\Mi Primer Programa\Mi Primer Programa\obj\Debug\net6.0\refint\Mi Primer Programa.dll
+C:\Users\Jose\source\repos\Mi Primer Programa\Mi Primer Programa\obj\Debug\net6.0\Mi Primer Programa.pdb
+C:\Users\Jose\source\repos\Mi Primer Programa\Mi Primer Programa\obj\Debug\net6.0\Mi Primer Programa.genruntimeconfig.cache
+C:\Users\Jose\source\repos\Mi Primer Programa\Mi Primer Programa\obj\Debug\net6.0\ref\Mi Primer Programa.dll
